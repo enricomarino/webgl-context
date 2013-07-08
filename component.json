@@ -1,0 +1,14 @@
+{
+  "name": "webgl-context",
+  "repo": "enricomarino/webgl-context",
+  "version": "0.1.0",
+  "description": "WebGL context",
+  "keywords": ["webgl", "context"],
+  "scripts": ["index.js"],
+  "dependencies": {
+  },
+  "development": {
+    "component/assert": "*"
+  },
+  "license": "MIT"
+}
